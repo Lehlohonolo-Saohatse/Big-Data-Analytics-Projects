@@ -114,11 +114,11 @@ Project 1 applies the concepts covered during the first two blocks of the module
 
 ### Repository
 
-📁 [`project-1/`](./project_1/)
+📁 [`project-1/`](./Real%20Estate%20Valuation,%20Cement%20Demand%20Forecasting%20&%20Telecom%20Churn/)
 
 For the complete analysis, methodology, implementation, visualisations and results, see the Project 1 README.
 
-**[View Project 1 →](./project_1/README.md)**
+**[View Project 1 →](./Real%20Estate%20Valuation,%20Cement%20Demand%20Forecasting%20&%20Telecom%20Churn/README.md)**
 
 ---
 
